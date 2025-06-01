@@ -1,30 +1,3 @@
-Giriş
-
-Bu proje, Linux için basit bir paket yöneticisi yazmak isteyen acemiler için hazırlandı.
-Amacımız:
-
-    Paketlerin nasıl yönetildiğini anlamak,
-
-    Basit bir yükleyici yazmak,
-
-    Sonra bu yükleyiciyi geliştirip profesyonel hale getirmek.
-
-1. Günün Hedefi
-
-    Paket yöneticisi nedir? Temel mantığı nedir?
-
-    Bash script kullanarak basit bir paket yükleyici yazmak,
-
-    Proje klasör yapısını oluşturmak,
-
-    Git ve GitHub’a kodu yüklemek.
-
-Paket Yöneticisi Nedir?
-
-Paket yöneticisi, yazılım paketlerini kolayca yüklememizi, güncellememizi ve kaldırmamızı sağlayan bir araçtır.
-Örneğin: apt (Debian), yum (RedHat), pacman (Arch Linux) gibi.
-
-Bizim projemiz çok daha basit olacak ama temel prensipler aynı.
 1. Temel Proje Klasör Yapısı
 
 Bilgisayarında bir klasör aç: KurPackageManager
